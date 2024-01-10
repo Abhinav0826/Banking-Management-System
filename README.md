@@ -9,7 +9,7 @@ In this project we have created a Virtual Bank (NOTABANC BANK) using Python and 
 - Open new account.
 - Search for customers using Account no.
 - Customer can deposit and withdraw money.
-- Modify cunstomers details like information Account Name, Telephone No and Balance amount.
+- Modify cunstomers details like Account Name, Telephone No and Balance amount.
 - Cancel account.
 - View details of all customers who have accounts in the bank.
 
